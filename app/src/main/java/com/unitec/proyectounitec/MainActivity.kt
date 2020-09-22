@@ -10,7 +10,7 @@ public TarjetaCredito(){
 super();
 }
 }
-    : es herencia
+    : es herencia xD
 */
 //AppCompatActivity(): Android 10 hasta Android 5 que fue la que escogimos
 // fun es una palabra reservada para el metodo

@@ -17,8 +17,9 @@ super();
 
 class MainActivity : AppCompatActivity() {
     //savedInstanceState: Bundle? : nombre y tipo de dato
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+    override fun onCreate(nombre: Bundle?) {
+        super.onCreate(nombre)
+        //     Carpeta res/layout/activity main
+        setContentView(R.layout.ejemplito)
     }
 }
